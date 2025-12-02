@@ -24,6 +24,13 @@ body.info-page {
 
 body.info-page .content {
     background: rgba(255,255,255,0.85);
+    margin: 2rem auto;      /* existing */
+    padding: 2rem;          /* existing */
+    border-radius: 10px;    /* existing */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    
+    /* NEW */
+    margin-top: 150px;
 }
 
 header {
