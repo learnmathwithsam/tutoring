@@ -36,8 +36,15 @@ body.info-page .content {
 header {
     background: #4a6cf7;
     color: white;
-    padding: 2rem;
     text-align: center;
+}
+
+header.main-page {
+    padding: 2rem;
+}
+
+header.info-page {
+    padding: 1rem;
 }
 
 .content {
